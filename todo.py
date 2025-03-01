@@ -1,4 +1,4 @@
-class TodomManager:
+class TodoManager:
     def __init__(self):
         self.tasks = []
 
